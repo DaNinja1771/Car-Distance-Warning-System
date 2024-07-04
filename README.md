@@ -11,7 +11,7 @@ This was built using platform.io, the AVR framework, and C/C++.
 - LCD
 
 ## Wiring Notes:
-Ultrasonic Sensor:
+### Ultrasonic Sensor:
 
 - trig ------> pin 33
 - echo ------> pin 49
@@ -19,26 +19,26 @@ Ultrasonic Sensor:
 - GND  ------> Ground Rail
 
 ######################################################################
-BUZZER:
+### BUZZER:
 
 - positive ------> pin 3
 - ground   ------> Ground Rail
 
 ######################################################################
-LEDS:
+### LEDS:
 
-Red:    
+#### Red:    
 - positive ------>  pin 24
 - negative ------>  Ground Rail( with 220 ohm res.)
-Yellow:
+#### Yellow:
 - positive ------>  pin 23
 - negative ------>  Ground Rail( with 220 ohm res.)
-Green:
+#### Green:
 - positive ------>  pin 22
 - negative ------>  Ground Rail( with 220 ohm res.)
 
 ######################################################################
-LCD:
+### LCD:
 
 - sda ------> sda(pin 20)
 - scl ------> scl (pin 21)
