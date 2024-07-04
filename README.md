@@ -27,12 +27,15 @@ BUZZER:
 ######################################################################
 LEDS:
 
-- Red:    positive ------>  pin 24
-          negative ------>  Ground Rail( with 220 ohm res.)
-- Yellow: positive ------>  pin 23
-          negative ------>  Ground Rail( with 220 ohm res.)
-- Green:  positive ------>  pin 22
-          negative ------>  Ground Rail( with 220 ohm res.)
+Red:    
+- positive ------>  pin 24
+- negative ------>  Ground Rail( with 220 ohm res.)
+Yellow:
+- positive ------>  pin 23
+- negative ------>  Ground Rail( with 220 ohm res.)
+Green:
+- positive ------>  pin 22
+- negative ------>  Ground Rail( with 220 ohm res.)
 
 ######################################################################
 LCD:
